@@ -15,6 +15,8 @@ Adicionar no `pom.xml` do projeto a dependência abaixo:
 ```
 ## Gradle
 
+--
+
 Adicionar ao arquivo `build.gradle`  `testImplementation` no closure `dependencies` e `useJUnitPlatform()` no closure `test`, ficando mais ou menos assim.
 
 ```groovy

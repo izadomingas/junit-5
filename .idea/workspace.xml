@@ -4,28 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7aa7ec78-9d61-45fb-8302-87e3993bd2da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/izadomingas/junit/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/izadomingas/junit/GerenciadorDeConexaoComBancoDeDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/izadomingas/junit/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/izadomingas/junit/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/izadomingas/junit/TransferenciaEntreContas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/github/izadomingas/junit/AfterBeforeTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/github/izadomingas/junit/AssertionsTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/github/izadomingas/junit/AssumptionsTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/github/izadomingas/junit/CondicionaisTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/github/izadomingas/junit/ContaTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/github/izadomingas/junit/EscolhendoAOrdemTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/github/izadomingas/junit/ExceptionsTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/github/izadomingas/junit/PessoaTeste.java" afterDir="false" />
+    <list default="true" id="7aa7ec78-9d61-45fb-8302-87e3993bd2da" name="Changes" comment="commitandooo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONFIGURACAO.md" beforeDir="false" afterPath="$PROJECT_DIR$/CONFIGURACAO.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +40,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.github.izadomingas.junit" />
@@ -119,6 +100,18 @@
       <option name="presentableId" value="Default" />
       <updated>1675012756971</updated>
     </task>
+    <task id="LOCAL-00001" summary="commitandooo">
+      <created>1675018378016</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675018378017</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commitandooo" />
+    <option name="LAST_COMMIT_MESSAGE" value="commitandooo" />
   </component>
 </project>
